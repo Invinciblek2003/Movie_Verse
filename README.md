@@ -86,8 +86,9 @@ Use the `BLANK_README.md` to get started.
 ### Built With
 * [![HTML][HTML5]][HTML-url]
 * [![Tailwind CSS][Tailwind CSS]][Tailwind-url]
-* [![JS][JavaScript]][JS-url]
+* [![JavaScript][JavaScript]][JS-url]
 * [![React][React.js]][React-url]
+* [![CSS][CSS3]][]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -230,4 +231,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[HTML-url]:<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640"><!--!Font Awesome Free v7.0.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2025 Fonticons, Inc.--><path d="M128 96L162.9 491.8L319.5 544L477.1 491.8L512 96L128 96zM436.2 223.9L252.4 223.9L256.5 273.3L432.1 273.3L418.5 421.7L320.6 448.7L320.6 449L319.5 449L220.8 421.7L214.8 345.9L262.5 345.9L266 384L319.5 398.5L373.2 384L379.2 321.8L212.3 321.8L199.5 176.2L440.6 176.2L436.2 223.9z"/></svg>
+[HTML5]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[Tailwind CSS]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+[Tailwind-url]: https://tailwindcss.com/
+[JavaScript]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square
+[JavaScript-url]:
